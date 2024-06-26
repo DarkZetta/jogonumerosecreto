@@ -12,4 +12,5 @@
 
 # Time
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/65504726?v=4" width=115><br><sub>Rafael Almeida</sub>](https://github.com/RafaelAlmeidaSilva)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/65504726?v=4" width=115><br><sub>Rafael Almeida</sub>](https://github.com/RafaelAlmeidaSilva) |
+| :---: |
